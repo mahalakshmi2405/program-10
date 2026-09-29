@@ -1,7 +1,3 @@
-CREATE DATABASE CollegeDB;
-
-USE CollegeDB;
-
 CREATE TABLE Course (
     CourseID INT PRIMARY KEY,
     CourseName VARCHAR(50),
